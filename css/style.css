@@ -1,0 +1,15 @@
+.myBox {
+  margin : 300px 400px 300px 400px;
+}
+
+
+/*
+
+$.each(json, function(i, field){
+                $(".quote").html(field + " ");
+
+ $('#stage').html('<p> Name: ' + jd.name + '</p>');
+                  $('#stage').append('<p>Age : ' + jd.age+ '</p>');
+                  $('#stage').append('<p> Sex: ' + jd.sex+ '</p>');
+
+*/
